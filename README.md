@@ -19,3 +19,5 @@ string value = load.GetVar<string>(); // gets the value from memory
 //now value from file is saved into "value" variable
 
 ```
+
+More examples in `Examples.cs`
