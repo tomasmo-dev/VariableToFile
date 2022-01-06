@@ -20,4 +20,4 @@ string value = load.GetVar<string>(); // gets the value from memory
 
 ```
 
-More examples in `Examples.cs`
+More examples in `Example.cs`
