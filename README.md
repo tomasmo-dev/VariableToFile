@@ -8,7 +8,7 @@ Can also load them.
 string save_this = "some string";
 
 VarSave.Saver save = new VarSave.Saver(@"Your path where you want your file saved here");
-int return_value = save.SaveFile<string>(save_this);
+int return_value = save.SaveToFile<string>(save_this);
 // string variable saved
 
 //To retrieve it from file use:
